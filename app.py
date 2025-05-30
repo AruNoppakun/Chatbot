@@ -11,7 +11,7 @@ from langchain.chains import RetrievalQA
 from langchain_groq import ChatGroq
 
 # === CONFIG ===
-os.environ["GROQ_API_KEY"] = "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"  # 🔑 เปลี่ยนตรงนี้
+os.environ["GROQ_API_KEY"] = "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"  # 🔑 เปลี่ยนตรงนี้
 
 st.set_page_config(page_title="📄 RAG Chatbot from PDF", page_icon="🤖")
 
